@@ -4,5 +4,5 @@ I built a GLM model in R to look at small business insurance pure premiums, usin
 ![image alt](https://github.com/Talal1281/Actuarial-Project-In-R-GLM-for-SBI-Pure-Premium-Modeling-/blob/55f8d72ca928a131fb532db405edc14fa396368c/excelimage.png)
 ![image alt](https://github.com/Talal1281/Actuarial-Project-In-R-GLM-for-SBI-Pure-Premium-Modeling-/blob/814b5ceb1167f3b256b8b4a098dd227628492bfd/td_glm_residuals.png)
 
-![image alt](https://github.com/Talal1281/Actuarial-Project-In-R-GLM-for-SBI-Pure-Premium-Modeling-/blob/814b5ceb1167f3b256b8b4a098dd227628492bfd/td_glm_actual_pred.png
+![image alt](https://github.com/Talal1281/Actuarial-Project-In-R-GLM-for-SBI-Pure-Premium-Modeling-/blob/814b5ceb1167f3b256b8b4a098dd227628492bfd/td_glm_actual_pred.png)
 
