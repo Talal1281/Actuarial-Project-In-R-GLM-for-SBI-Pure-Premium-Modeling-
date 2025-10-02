@@ -1,0 +1,26 @@
+		Record layout for Mortgage Data Quarterly		
+		          P&C Data Statements
+			
+Description				Example			Start	Length
+-------------------------		------- 		-----   ------
+
+Statement #				10			1	2
+Year					05			3	2
+Quarter					2			5	1
+Company Code				C122			6	4
+Page					1060			10	4
+Row					109			14	3
+Column					012			17	3
+Data Area				xxxxxxxxxxx.xxxx	20	16
+Carriage return/Line Feed		CR/LF			36	2
+
+
+Stmt #	Filing Form
+------  -----------
+
+10	Canadian P & C Companies 2005
+20	Foreign P & C Companies 2005
+
+
+
+

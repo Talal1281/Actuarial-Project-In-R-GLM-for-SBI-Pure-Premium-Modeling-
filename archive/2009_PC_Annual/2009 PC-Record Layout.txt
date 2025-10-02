@@ -1,0 +1,23 @@
+﻿		Record layout for 2009 Data			
+		  P&C Data Statements
+			
+Description				Example			Start	Length
+-------------------------		------- 		-----   ------
+
+Statement #				52			1	2
+Year					09			3	2
+Company Code				C122			5	4
+Page					1060			9	4
+Row					01			13	2
+Column					01			15	2
+Data Area				xxxxxxxxxxx.xxxx	17	16
+Carriage return/Line Feed		CR/LF			33	2
+
+
+Stmt #	Filing Form
+------  -----------
+
+53	Canadian P & C Companies 2009
+52	Foreign P & C Companies 2009
+
+

@@ -1,0 +1,20 @@
+﻿		Record layout for 2000 Data			
+		  P&C Data Statements
+
+Description				Example		Start	Length
+-------------------------		------- 	-----   ------
+
+Statement #				52		1	2
+Year					00		3	2
+Company Code				C122		5	4
+Page					1060		9	4
+Row					01		13	2
+Column					01		15	2
+Data Area				xxxxxxxxxx.xx	17	13
+Carriage return/Line Feed		CR/LF		30	2
+			
+Stmt #	Filing Form
+------  -----------
+
+53	Canadian P & C Companies 2000
+52	Foreign P & C Companies 2000
